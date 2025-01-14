@@ -4,7 +4,7 @@ I like making threejs sketches and showing them to people on the internet, but t
 
 So, here I present to you all my dumping ground for threejs sketches.
 
-Visit the site [here](https://sketches-sarlloc.vercel.app).
+Visit the site [here](threejs-sketches.netlify.app).
 
 This project is made using typescript. But the sketches use a lot of glsl as well. 
 
@@ -12,7 +12,7 @@ This project is made using typescript. But the sketches use a lot of glsl as wel
 
 > Will keep adding more and more with time.
 
-1. [Blobby Earth](https://sketches-sarlloc.vercel.app/sketch/blobby-earth)
+1. [Blobby Earth](https://threejs-sketches.netlify.app/sketch/blobby-earth)
 
 ![Blobby Earth](./public/sidebar/blobbyEarth.png)
 ___
