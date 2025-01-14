@@ -22,7 +22,7 @@ ___
 ![Interactive Cubes](./public/sidebar/interactiveCubes.png)
 ___
 
-3. [Galaxy](https://sketches-sarlloc.vercel.app/sketch/galaxy)
+3. [Galaxy](https://3dgalaxy-generator.netlify.app/
 
 ![Galaxy](./public/sidebar/galaxy.png)
 # Threejs-sketches
